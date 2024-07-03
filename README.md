@@ -6,9 +6,10 @@
     </a>
   </div>
 </div>
+
 <table>
 <tr><td>
-
+  
 ### 📊 WakaTime
 
 <picture>
@@ -81,14 +82,12 @@
 <!-- ########################################## 分割 ########################################## -->
 
 <div align="center" >
-
-<!-- profile-3d-contrib 3D 贡献图-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/YX916/YX916/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/YX916/YX916/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/YX916/YX916/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
-
+  <!-- profile-3d-contrib 3D 贡献图-->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/YX916/YX916/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/YX916/YX916/profile-3d-contrib/profile-gitblock.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/YX916/YX916/profile-3d-contrib/profile-night-rainbow.svg" />
+  </picture>
 </div>
 
 <!-- GitHub metrics 信息指标 -->
