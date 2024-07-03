@@ -17,11 +17,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YX916&theme=dark&hide_border=true" />
 </picture>
 
-<!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/YX916/YX916/assets/images/cxyduck.gif" />&emsp;
-<img src="https://cdn.jsdelivr.net/gh/YX916/YX916/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/YX916/YX916/assets/images/cxyduck.gif" />
-
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
   <tr>
