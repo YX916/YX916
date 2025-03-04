@@ -46,8 +46,8 @@
 <!-- Wakatime Graph-->
 <table>
   <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@c3495436-a7e4-4077-97db-b126fcb90a51/ec193b0d-c9fa-4c39-8e83-11510388c326.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@c3495436-a7e4-4077-97db-b126fcb90a51/23fd8904-a805-4166-956b-57ef06feb07e.svg" width="500" alt="Wakatime"/></td>
   </tr>
 </table>
 
